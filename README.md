@@ -43,4 +43,10 @@ finally:
    python simple_calculator_selenium.py
    ```
 
+## Google AI Professional Certificate
+
+- Verified Google AI Professional Certificate holder.
+- Credential URL: `https://www.coursera.org/account/accomplishments/professional-cert/REPLACE_WITH_YOUR_LINK`
+- Skills highlighted: AI fundamentals, machine learning, TensorFlow, and model deployment.
+
 If you want to use this with a different calculator page, update the URL and element locators accordingly.
